@@ -1,1 +1,2 @@
-let texto='bien benidos';'red'
+let texto='bien benidos';
+
